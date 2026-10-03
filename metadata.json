@@ -1,0 +1,8 @@
+{
+  "name": "Tiếng Việt 1 - Bé Vui Học Đọc & Viết Chữ Cái",
+  "description": "Ứng dụng tương tác sinh động theo sách giáo khoa Tiếng Việt 1 (Kết nối tri thức), giúp học sinh lớp 1 học phát âm, ghép vần, luyện viết ô ly, chơi trò chơi chữ cái và làm bài tập trắc nghiệm trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
